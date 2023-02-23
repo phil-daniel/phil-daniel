@@ -1,18 +1,15 @@
-### Hi!
+### Hi! Welcome to my github page.
 
 I am Phillip. I am a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
 
-<!--
-**phillip2654/phillip2654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests include 
 
-Here are some ideas to get you started:
+## Contact me
+ - [Website] [ 1 ]
+ - [Email][ 2 ]
+ - [LinkedIn][ 3 ]
+ - [CV] [ 4 ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]:https://phillip2654.github.io
+[2]:mailto:phillip.s.w.daniel@gmail.com
+[3]:https://google.co.uk
