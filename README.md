@@ -1,8 +1,12 @@
 ### Hi! Welcome to my github page.
 
-I am Phillip. I am a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
+## About me
 
-My interests include 
+I am Phillip. I am a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
+The languages I currently can use are: C, Python, Lua, Haskell, Java.
+In the future, I also hope to learn Javascript and C++.
+
+Outside of Computer Science, I enjoy travelling, with one of my favourite places to visit being China, especially Shenzhen and Hongkong.
 
 ## Contact me
  - [Website][ 1 ]
