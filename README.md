@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+I am Phillip. I am a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
 
 <!--
 **phillip2654/phillip2654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
