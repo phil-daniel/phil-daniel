@@ -10,8 +10,6 @@ Outside of Computer Science, I enjoy travelling, with one of my favourite places
 
 [![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillip2654&theme=dark&show_icons=true&count_private=true&icon_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Phillip's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phillip2654&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact me
  - [Website][ 1 ]
  - [Email][ 2 ]
