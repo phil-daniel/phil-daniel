@@ -2,7 +2,7 @@
 
 ## About me
 
-I am Phillip. I am a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
+Hi, I am Phillip, a first year student at the University of Bristol studying Compututer Science (Bsc), graduating in 2025.
 The languages I currently can use are: C, Python, Lua, Haskell, Java.
 In the future, I also hope to learn Javascript and C++.
 
