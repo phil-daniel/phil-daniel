@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Second Year student at the University of Bristol, studying Computer Science (BSc), graduating in 2025. I have knowedge in an assortment of language, including C, Python, Haskell, Lua, Go and others, and I am currently learning C++.
+Hi, I'm Phillip! I am a Second Year student at the University of Bristol, studying Computer Science (BSc), graduating in 2025. I have knowedge in an assortment of language, including C, Python, Haskell, Lua, Go and others, and I am currently learning C++.
 
 Outside of Computer Science, I enjoy travelling, with one of my favourite places to visit being China, especially Shenzhen and Hongkong.
 
